@@ -34,10 +34,24 @@ const add = (x, y) => x + y;
 console.log(add(5, 3)); // 8
 
 
-// Loop
+// for Loop
 for (let i = 0; i < 5; i++) {
   console.log("Number:", i);
 } // Output 0,1,2,3,4
+
+// while Loop
+let i = 0;
+while (i < 5) {
+  console.log("While Loop: i =", i);
+  i++;
+}
+
+// do while Loop
+let i = 0;
+do {
+  console.log("Do While Loop: i =", i);
+  i++;
+} while (i < 5);
 
 
 // Array
