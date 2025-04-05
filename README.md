@@ -54,4 +54,4 @@ AI Pen Pal is a chatbot designed to adapt to users' tone, culture, and writing s
 - Support for voice interactions in addition to text-based communication.
 
 ## Conclusion
-AI Pen Pal is a next-generation chatbot focused on making digital conversations more natural and personalized. By leveraging AI-driven adaptation and user-centric design, it aims to revolutionize the way users interact with chatbots.
+AI Pen Pal is a next-generation chatbot focused on making digital conversations more natural and personalized. By leveraging AI-driven adaptation and user-centric design, it aims to revolutionize the way users interact with chatbots...
