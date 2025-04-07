@@ -18,7 +18,7 @@ const TabComponent = () => {
         </button>
       </div>
 
-      {/* Content */}
+      {/* Content for tabs*/}
       <div>
         {activeTab === 'Tab1' && <p>This is content for Tab 1</p>}
         {activeTab === 'Tab2' && <p>This is content for Tab 2</p>}
